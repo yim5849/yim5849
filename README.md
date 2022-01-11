@@ -3,7 +3,7 @@
 
  [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,JavaScript )](https://github.com/yim5849)
  
- [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages/Framework&badges=Java,Spring,BootStrap,JavaScript,jQuery,JSP)](https://github.com/yim5849)
+ [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages/Framework&badges=Java,Spring,Jsp/Servlet,HTML5/CSS,BootStrap,JavaScript,jQuery)](https://github.com/yim5849)
  
   [![Badge](https://widget.realdeveloper.pro/api/badge?title=DataBase/DevOps&badges=Oracle,GitHub)](https://github.com/yim5849)
  
