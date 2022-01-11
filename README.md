@@ -1,7 +1,8 @@
 ### 안녕하세요! HELLO! WORLD!   👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyim5849&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)]
+ [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,React,Node.js)]
+ 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yim5849&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
