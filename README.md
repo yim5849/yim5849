@@ -3,6 +3,8 @@
 
  [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,JavaScript )](https://github.com/yim5849)
  
+ [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,Java,C)](https://github.com/kijepark)
+ 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yim5849&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yim5849&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
