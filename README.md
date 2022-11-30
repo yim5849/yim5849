@@ -11,7 +11,11 @@
 #### 💪Skill(FrameWork)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>
 #### 😎GITHUB History
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yim5849&theme=nightowl&show_icons=true)](https://github.com/yim5849)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yim5849&show_icons=true&theme=radical)
+#### 💼 Carrer
+#### 2022.03. 디엠컨설팅 입사
+#### 2022.03.~2022.07 신한아이타스 - 븐크App - 연금저축 > FrontEnd
+#### 2022.07.~2023.02 교원투어 - 여행이지 > 제휴서비스API > BackEnd
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=5F9EA0)
 <!--
