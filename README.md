@@ -23,7 +23,7 @@
 #### 👍Project Carrer
 #### 2022.03 ~ 2022.07 > 신한아이타스 - 븐크App - 연금저축 > FrontEnd   - [[상세내용](https://github.com/yim5849/bnkAppFront)]
 #### 2022.07 ~ 2023.02 > 교원투어 - 여행이지 > 제휴서비스API > BackEnd  - [[상세내용](https://github.com/yim5849/kyowon-jeahuApi)]
-#### 2023.02 ~         > 교원투어 - 정산 / ERP(파이썬) -> 자바 CONVERT => 미확정 (예정)
+#### 2023.02 ~ 2023.xx > 교원투어 - 정산 / ERP(파이썬) -> 자바 CONVERT => 미확정 (예정)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=5F9EA0)
 <!--
