@@ -20,7 +20,7 @@
 #### 2022.03 ~ 현재 > (주)디엠컨설팅 입사
 #### 🔲My Toy-Project
 #### 2023.01 ~ 현재 > (Clone)PhotoGram Project > BackEnd - [상세보기(예정)] 
-#### 👍Project Carrer
+#### 👍Project Carrer 
 #### 2022.03 ~ 2022.07 > 신한아이타스 > 븐크APP(연금저축) > FrontEnd - [[상세보기](https://github.com/yim5849/bnkAppFront)]
 #### 2022.07 ~ 2023.01 > 교원투어 > 제휴서비스API > BackEnd - [[상세보기](https://github.com/yim5849/kyowon-jeahuApi)]
 #### 2023.01 ~ 2023.02 > (주)디엠컨설팅 WEB-SITE Project > FrontEnd - [상세보기(예정)] 
